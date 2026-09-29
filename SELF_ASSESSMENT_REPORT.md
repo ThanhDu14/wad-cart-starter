@@ -1,6 +1,6 @@
 # Self-assessment — IA#1
 
-Submitted by: <student ID> — <full name>
+Submitted by: <24120288> — <Nguyen Thanh Du>
 Total I claim: 100 / 100
 
 | Criterion | Max | I claim | Evidence |
